@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", sans-serif;
+}
+
+.red{
+    color: red;
+}
+
+.c1{
+    color: black;
+}
+.makebigger{
+    font-size: 300%;
+}
+.gothic{
+    font-family: URW Chancery L, cursive, sans-serif; font-size: 30px; font-style: italic;
+}
+
+.bg1{
+    background-color: aquamarine;
+}
